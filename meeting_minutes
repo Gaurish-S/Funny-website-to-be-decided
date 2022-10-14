@@ -1,0 +1,19 @@
+Higher or lower based on top 100 songs listened to by user playing:
+  data - listen time of songs
+       - randomised
+       - album art
+  Higher and lower - 2 songs displayed
+                   - pick whichever one has higher listen time 
+                   - display album art in the background half screen for song 1 and other for song 2
+                   - score system per correct guess, game ends on first wrong guess
+                   
+Stuff to look into:
+  look into general web dev process find out how to pick back end and front end tools
+    - backend languages
+    - front end languages
+    - database Stuff
+    - Os
+    - Web server setup
+  look into data collection Api for spotify to obtain data
+    - look into diff libs
+    - what data we can actually get/ have access to
